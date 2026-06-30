@@ -1,10 +1,10 @@
-# Slarmoo's Box Testing
+# BoomBox (WIP)
 
-Slarmoo's Box is an online tool for sketching and sharing instrumental music.
-You can find it [here](https://github.com/slarmoo/slarmoosbox/).
+BoomBox is a mod of Jukebox, which is a mod of Slarmoo's box, which is an online tool for sketching and sharing instrumental music.
+You can find Slarmoo's Box [here](https://github.com/slarmoo/slarmoosbox/).
 It is a modification of [Ultrabox](https://ultraabox.github.io), which is a modification of [JummBox](https://github.com/jummbus/jummbox), which inturn is a modification of the [original BeepBox](https://beepbox.co).
 
-Slarmoo's Box is a mod of Ultrabox that aims to advance Beepbox's capabilities. Feel free to contribute!
+BoomBox is a mod of Jukebox that aims to advance Beepbox's capabilities. Feel free to contribute!
 
 
 All song data is packaged into the URL at the top of your browser. When you make
@@ -12,8 +12,10 @@ changes to the song, the URL is updated to reflect your changes. When you are
 satisfied with your song, just copy and paste the URL to save and share your
 song!
 
-Slarmoo's Box, as well as the beepmods which it's based on, are free projects. If you ever feel so inclined, please support the original creator, [John Nesky](http://www.johnnesky.com/), via
+BoomBox, as well as the beepmods which it's based on, are free projects. If you ever feel so inclined, please support the original creator, [John Nesky](http://www.johnnesky.com/), via
 [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QZJTX9GRYEV9N&currency_code=USD)!
+
+everything past here is unchanged from the original repo
 
 ## Compiling
 
